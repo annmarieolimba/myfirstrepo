@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Welcome to my page [ANN MARIE OLIMBA]</p>
+    <p>Welcome to my page [Write your Fullname here]</p>
 </body>
 </html>
